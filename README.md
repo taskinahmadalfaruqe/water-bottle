@@ -1,10 +1,10 @@
-#Add at least 3 Project features here.
+# Add at least 3 Project features here.
 ***
-1. Add To Cart:<br/>
+- Add To Cart:<br/>
 You can't add an item as a duplicate item. if you want to do it you get an error message.<br/><br/>
-2. When Courses are added to the cart:<br/>
-After clicking the select button, the selected course will be added to the cart. <br/><br/>
-3. How many courses are to be added:<br/>
+- When Courses are added to the cart:<br/>
+  After clicking the select button, the selected course will be added to the cart. <br/><br/>
+- How many courses are to be added:<br/>
 Remember it, Only 20 hours Course you can able to add.
 ---
 ---
