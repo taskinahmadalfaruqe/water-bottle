@@ -16,8 +16,8 @@ const Bottles =()=> {
 
     return(
         <div>
-            <h2> All Bottle List</h2>
-            <div>
+            <h2 className="bg-red-200 text-center"> All Bottle List</h2>
+            <div className="grid grid-cols-3 gap-5 ">
                 {
                     bottles.map(bottle=> <Bottle bottle={bottle} key={bottle.id}></Bottle>)
                 } 

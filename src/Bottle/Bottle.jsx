@@ -4,11 +4,11 @@ const Bottle = ({bottle}) => {
     console.log(bottle)
     const {name,img}=bottle;
   return (
-    <div>
+    <div className='border-2 border-red-900 p-5 rounded-lg'>
         <div className="name">
             {name}
         </div>
-        <img src={img} alt="" />
+        <img src={img} alt="Bottle" />
     </div>
   )
 }
